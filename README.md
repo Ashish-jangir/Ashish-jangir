@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning and game development
 - 💞️ I’m looking to collaborate on any heavy task project that teaches me new things.
 - 📫 How to reach me ?
-https://www.linkedin.com/in/ashish-jangir-59a700172/
+https://www.linkedin.com/in/ashishjangirtechfan/
 
 <!---
 Ashish-jangir/Ashish-jangir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
